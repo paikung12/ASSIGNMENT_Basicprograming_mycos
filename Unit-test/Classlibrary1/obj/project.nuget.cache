@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sqKESKNgEX48/Ma21NWynuHiQACFyQQUtwa0qyR89PWaOnlmbVpcLjKY8fcH1m8B2SLXy0yt76vG8szNw2bZA==",
+  "success": true,
+  "projectFilePath": "/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/Classlibrary1.csproj",
+  "expectedPackageFiles": [
+    "/Users/auttapongkompiban/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

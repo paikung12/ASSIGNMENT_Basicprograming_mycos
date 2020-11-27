@@ -1,0 +1,13 @@
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/bin/Debug/netstandard2.0/Unit-Classlibrary.deps.json
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/bin/Debug/netstandard2.0/Unit-Classlibrary.dll
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/bin/Debug/netstandard2.0/ref/Unit-Classlibrary.dll
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/bin/Debug/netstandard2.0/Unit-Classlibrary.pdb
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/Unit-Classlibrary.csprojAssemblyReference.cache
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/Unit-Classlibrary.AssemblyInfoInputs.cache
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/Unit-Classlibrary.AssemblyInfo.cs
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/Unit-Classlibrary.csproj.CoreCompileInputs.cache
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/Unit-Classlibrary.dll
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/ref/Unit-Classlibrary.dll
+/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/obj/Debug/netstandard2.0/Unit-Classlibrary.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvIC+23Xtq2lDkw+ixHRVaDrjr0njiNNlq+gbhxAtykvglw4C+VZJNyfblGdBccgh9b3g0IVvGmSu/Qib/JSnA==",
+  "success": true,
+  "projectFilePath": "/Users/auttapongkompiban/Projects/Unit-test/Unit-Classlibrary/Unit-Classlibrary.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/auttapongkompiban/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{D7D53712-5DF1-4121-B52C-9AE434D629D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Unit-test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Classlibrary1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Unit-test/UnitTest1.cs">
+    <Files>
+      <File FileName="Unit-test/UnitTest1.cs" Line="76" Column="16" />
+      <File FileName="Classlibrary1/Class1.cs" Line="58" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unit-test" expanded="True">
+            <Node name="Classlibrary1" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+            </Node>
+            <Node name="Unit-test" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unit-test" expanded="True">
+            <Node name="Unit-test" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/auttapongkompiban/Projects/Unit-test/Unit-test/UnitTest1.cs" relfile="Unit-test/UnitTest1.cs" line="9" column="15" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

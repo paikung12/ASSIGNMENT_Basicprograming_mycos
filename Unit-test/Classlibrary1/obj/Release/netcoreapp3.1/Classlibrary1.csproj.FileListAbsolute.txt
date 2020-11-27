@@ -1,0 +1,9 @@
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/bin/Release/netcoreapp3.1/Classlibrary1.deps.json
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/bin/Release/netcoreapp3.1/Classlibrary1.dll
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/bin/Release/netcoreapp3.1/Classlibrary1.pdb
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/obj/Release/netcoreapp3.1/Classlibrary1.csprojAssemblyReference.cache
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/obj/Release/netcoreapp3.1/Classlibrary1.AssemblyInfoInputs.cache
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/obj/Release/netcoreapp3.1/Classlibrary1.AssemblyInfo.cs
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/obj/Release/netcoreapp3.1/Classlibrary1.csproj.CoreCompileInputs.cache
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/obj/Release/netcoreapp3.1/Classlibrary1.dll
+/Users/auttapongkompiban/Projects/Unit-test/Classlibrary1/obj/Release/netcoreapp3.1/Classlibrary1.pdb
