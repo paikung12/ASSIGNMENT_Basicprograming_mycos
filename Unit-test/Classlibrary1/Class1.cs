@@ -4,26 +4,22 @@ namespace Classlibrary1
 {
     public class Class1
     {
-        public int ArmstrongNumber(int number)
+        public bool ArmstrongNumber(int number)
         {
-            int val = 371, sum = 0;
+            int sum = 0;
             int rem;
-            for (int i = val; i > 0; i = i / 10)
+            bool IsArmstrongNumber = false;
+            for (int i = number; i > 0; i = i / 10)
             {
                 rem = i % 10;
                 sum = sum + rem * rem * rem;
             }
-            if (sum == val)
+            if (sum == number)
             {
-                Console.Write("Armstrong Number");
-                return sum;
+                IsArmstrongNumber = true;
             }
-            else
-            {
-                Console.Write("Not an Armstrong Number");
-                return sum;
-            }
-            
+           
+            retrun IsArmstrongNumber;
         }
 
         public int StrongNumber(int number)
