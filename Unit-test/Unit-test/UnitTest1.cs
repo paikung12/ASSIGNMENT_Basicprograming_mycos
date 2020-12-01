@@ -15,10 +15,10 @@ namespace Unit_test
             Class1 class1 = new Class1();
             //Act
             // check for armstrong
-            int x = 371;
-            int result = class1.ArmstrongNumber(x);
+            int inputNumber = 371;
+            bool result = class1.ArmstrongNumber(inputNumber);
             //Assert
-            Assert.AreEqual(371, result);
+            Assert.AreEqual(true, result);
         }
         [TestMethod]
         public void TestMethod1_IsStrongNumber()
